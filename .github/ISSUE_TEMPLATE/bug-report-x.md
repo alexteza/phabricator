@@ -1,9 +1,9 @@
 ---
-name: Bug
+name: Bug report X
 about: Create a report to help us improve
-title: "<local> <tipo>"
-labels: bug
-assignees: alexteza
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
