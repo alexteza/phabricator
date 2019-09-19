@@ -2,7 +2,7 @@
 name: Bug
 about: Create a report to help us improve
 title: "<local> <tipo>"
-labels: bug
+labels: 'bug, question, Priority: Low, Priority: High'
 assignees: alexteza
 
 ---
